@@ -8,7 +8,7 @@ from openai import OpenAI
 from io import BytesIO
 
 # Path folder untuk token Apify
-APIFY_TOKEN_FOLDER = "D:/Magang/SM/Scrap Facebook/Token Apify"
+APIFY_TOKEN_FOLDER = "./Token Apify"
 
 # Fungsi memuat token Apify dari file JSON
 def load_apify_tokens(folder_path):
