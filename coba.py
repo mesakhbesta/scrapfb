@@ -103,7 +103,7 @@ def scrape_and_analyze():
     3. Berikan ide artikel menarik berdasarkan postingan yang relevan.
     4. Jelaskan alasan pemilihan topik serta sumber datanya.
     5. Sertakan contoh judul, ringkasan, dan struktur penulisan artikel.
-    6. Tampilkan URL dan waktu kejadian yang mendukung setiap topik tersebut.
+    6. Tampilkan URL dan waktu kejadian yang mendukung setiap topik tersebut, dan tempelkan di poin ke 4.
     """
 
     if client_gpt:
